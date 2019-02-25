@@ -1,0 +1,14 @@
+{
+  "@@last_modified": "2019-02-25T14:56:36.297423",
+  "title": "Hello World",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myOrders": "My Orders",
+  "@myOrders": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
